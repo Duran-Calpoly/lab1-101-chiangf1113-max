@@ -1,6 +1,6 @@
-def calculate_average (num1,num1,num2):
+def calculate_average (num1,num2,num3):
     return ((num1+num2+num3)/3)
 def add_tax (bill_total):
     return bill_total*1.1
 def greet_user (name):
-    return "Hello" + name
+    return "Hello " + name
